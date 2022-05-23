@@ -22,7 +22,9 @@ from nltk.stem import WordNetLemmatizer
 
 # In[31]:
 
-url="https://raw.githubusercontent.com/A-AJRAD/Citymodeling/main/Abha.csv"
+url="https://raw.githubusercontent.com/A-AJRAD/Citymodeling/main/Tabbuk.csv"
+
+    
 
 my_dataset=pd.read_csv(url)
 ##s=requests.get(url).content
