@@ -22,7 +22,7 @@ from nltk.stem import WordNetLemmatizer
 
 # In[31]:
 
-url="https://raw.githubusercontent.com/A-AJRAD/Citymodeling/main/Najran.csv"
+url="https://raw.githubusercontent.com/A-AJRAD/Citymodeling/main/Khamis Mushait.csv"
 
     
 
